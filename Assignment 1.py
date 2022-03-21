@@ -16,3 +16,4 @@ a = (input("Enter the string :"))
 b = (input("Enter the substring :"))
 
 print(b in a)
+print("added two numbers:")
